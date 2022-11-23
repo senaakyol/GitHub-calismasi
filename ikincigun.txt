@@ -6,3 +6,4 @@ Git Github ikinci Gun MASTER BRANCH'I deneme
 Git Github ikinci Gun SENA BRANCH'I ikinci deneme
 Git Github ikinci Gun EVREN BRANCH'I ilk deneme
 Git Github ucuncu Gun ilk deneme
+Git Github ucuncu Gun ikinci deneme
